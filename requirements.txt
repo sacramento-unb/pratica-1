@@ -1,0 +1,7 @@
+folium==0.18.0
+geopandas==1.0.1
+numpy==2.2.2
+opencv_python_headless==4.11.0.86
+rasterio==1.4.3
+streamlit==1.39.0
+streamlit_folium==0.23.1
